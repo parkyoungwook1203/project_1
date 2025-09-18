@@ -23,6 +23,7 @@
 
 ## EDA 
 [JSON 구조]
+
 id : 데이터 파일 아이디
 
 start : 발화 시작 시간
@@ -44,4 +45,4 @@ standard : 표준어 어절
 isDialect : 방언 여부(True/False)
 
 
-* isDialect : False => 방언 어절과 표준어 어절 똑같음 
+** isDialect : False => 방언 어절과 표준어 어절 똑같음 
