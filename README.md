@@ -10,8 +10,12 @@
 
 ## 데이터 : 한국어 방언 발화(제주도) - Ai Hub 
 - 데이터 구조 : 음성 데이터(wav), 텍스트 데이터(json)
+
 - 음성 데이터 : 3,000시간 정제된 음성데이터
+
 - 텍스트 데이터 : 총 50건의 원본 표준어 텍스트 및 방언 특성을 고려한 이중전사 텍스
+
+<JSON 구조 예시>
 <img width="400" height="503" alt="Image" src="https://github.com/user-attachments/assets/3d013fe6-3bcd-4133-9533-290e2fa91045" />
 
 
