@@ -12,7 +12,7 @@
 - 데이터 구조 : 음성 데이터(wav), 텍스트 데이터(json)
 - 음성 데이터 : 3,000시간 정제된 음성데이터
 - 텍스트 데이터 : 총 50건의 원본 표준어 텍스트 및 방언 특성을 고려한 이중전사 텍스
-!img/스크린샷 2025-09-18 154700.png
+<img width="532" height="693" alt="Image" src="https://github.com/user-attachments/assets/3d013fe6-3bcd-4133-9533-290e2fa91045" />
 
 
 
