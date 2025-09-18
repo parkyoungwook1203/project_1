@@ -24,14 +24,24 @@
 ## EDA 
 [JSON 구조]
 id : 데이터 파일 아이디
+
 start : 발화 시작 시간
+
 end : 발화 종료 시간
+
 speaker_id : 화자 아이디
+
 standard_form : 표준어
+
 dialect_form : 방언
+
 eojeolList : 문장을 어절로 분해
+
 eojeol : 방언 어절
+
 standard : 표준어 어절
+
 isDialect : 방언 여부(True/False)
+
 
 * isDialect : False => 방언 어절과 표준어 어절 똑같음 
