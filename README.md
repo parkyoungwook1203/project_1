@@ -127,9 +127,14 @@ chat GPT 는 번역을 잘 해줄까?
 
 결과
 
-방언	정답	A안	B안
-가봐수과	가봤어요	가보셨성요?	
-<img width="289" height="45" alt="image" src="https://github.com/user-attachments/assets/e8932581-6aef-49c2-a7bf-d7aa4f1502d7" />
+방언	라벨링 데이터	A안: 제주 방언 명시	B안: 미명시
+가봐수과	가봤어요	가보셨어요? / 가보았습니까?	가보셨어요?
+논삐	무	논두렁	논두렁 / 논둑
+멩질다	메스껍다	메스껍다 / 구역질이 나다	던지다 / 내던지다
+거렁밀려	걸려서 미끄러지다	초라하게 몰려다닌다	게으름을 피우다 / 빈둥거리다
+배롱해지듯이	환하지 않듯이	빈둥거리듯이 / 게으르게 굴듯이	부끄러워진 듯이 / 수줍어하는 듯이
+<img width="289" height="248" alt="image" src="https://github.com/user-attachments/assets/ad634ba5-ad96-415d-8cc4-6d51bce9d537" />
+
 
 
 
