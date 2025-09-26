@@ -1,4 +1,4 @@
-# 방언과 우리말, 딥러닝으로 잇(it)다
+<img width="417" height="342" alt="image" src="https://github.com/user-attachments/assets/935245f7-9e7c-49c9-b0e2-aba0b68c975a" /># 방언과 우리말, 딥러닝으로 잇(it)다
 
 
 
@@ -145,10 +145,24 @@ BERT score : 의미 기반 유사도 평가, 문장 의미 중심
   
 데이터 량의 부족인지 검증하기위해 20,000개 15,000개 학습
 
-20,000개 문장 학습 => 8h 40m loss : 1.05
 15,000개 문장 학습 => 7h 30min loss : 1.11
+20,000개 문장 학습 => 8h 40m loss : 1.05
 
-  
+[model_15] 
+단어 200 개 평가
+
+<img width="417" height="342" alt="image" src="https://github.com/user-attachments/assets/7c6ba12a-ad03-4ee1-b84c-6f6d5d469319" />
+
+
+- BLEU 점수는 낮지만 의미 일치는 양호
+- 의역 성향 강한 방언 번역 특성 감안 필요
+
+answkd 1,000개 평가
+
+
+<img width="219" height="52" alt="image" src="https://github.com/user-attachments/assets/16954ec6-3c1f-46e9-a758-994ff56f4da3" />
+
+ 
 
 
 
