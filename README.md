@@ -28,7 +28,7 @@
     {"eojeol": "방언 어절", "standard": "표준어 어절", "isDialect": true}
   ]
 }
-
+```
 EDA 및 전처리
 
 실험적으로 5개 JSON 파일 합쳐서 전처리 진행 → 두 가지 방식 비교
