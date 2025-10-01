@@ -159,6 +159,7 @@
 - 앞선 평가와 동일하게 BLEU 수치는 적지만 BERT socre 은 양호
 
 
+<img width="1242" height="242" alt="image" src="https://github.com/user-attachments/assets/3403eadc-8d0b-4d25-8b41-4c491c947a0f" />
 
 
 
